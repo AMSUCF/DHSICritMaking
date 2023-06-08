@@ -5,7 +5,7 @@
 3. Physical Hypertext
 4. Twine
 5. Cut-up Poetry
-6. Tracery bots
+6. [Tracery bots](https://botsin.space/@martikarels)
 7. Scalar
 8. P5 Poetics
 9. [Bitsy](https://amsucf.github.io/DHSICritMaking/bitsy.html)
