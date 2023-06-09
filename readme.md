@@ -13,6 +13,7 @@
 - [knk2023](https://knk2023.github.io/DHSI2023/)
 - [gaydrianna](https://gaydrianna.github.io/dhsi23/)
 - [alexandra-wong](https://alexandra-wong.github.io/DHSI-CM/)
+- [sluckylib](https://sluckylib.github.io/dhsi2023/) 
 
 **Our Journey:**
 1. Sketches
