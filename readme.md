@@ -2,6 +2,16 @@
 
 ![Bitsy time](https://amsucf.github.io/DHSICritMaking/recording.gif)
 
+**The Cohort on GitHub**
+- [spongepoet](https://spongepoet.github.io/dhsi/) 
+- [melsprite](https://melsprite.github.io/DHSI/)
+- [gabjohar](https://gabjohar.github.io/sillyoracle/)
+- [relizabur](https://relizabur.github.io/secondtry/) 
+- [kylene888](https://kylene888.github.io/DHSI-Critical-Making/)
+- [drmoniquet](https://drmoniquet.github.io/critical-making-dhsi23/) 
+- [mkarels](https://mkarels.github.io/MakingWS/)
+- [knk2023](https://knk2023.github.io/DHSI2023/)
+
 **Our Journey:**
 1. Sketches
 2. Grids & Gestures
