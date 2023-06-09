@@ -1,8 +1,7 @@
-<center>
 ### DHSI 2023 Critical Making Hub
 
 ![Bitsy time](https://amsucf.github.io/DHSICritMaking/recording.gif)
-</center>
+
 **Our Journey:**
 1. Sketches
 2. Grids & Gestures
