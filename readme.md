@@ -11,6 +11,7 @@
 - [drmoniquet](https://drmoniquet.github.io/critical-making-dhsi23/) 
 - [mkarels](https://mkarels.github.io/MakingWS/)
 - [knk2023](https://knk2023.github.io/DHSI2023/)
+- [gaydrianna](https://gaydrianna.github.io/dhsi23/)
 
 **Our Journey:**
 1. Sketches
