@@ -12,6 +12,7 @@
 - [mkarels](https://mkarels.github.io/MakingWS/)
 - [knk2023](https://knk2023.github.io/DHSI2023/)
 - [gaydrianna](https://gaydrianna.github.io/dhsi23/)
+- [alexandra-wong](https://alexandra-wong.github.io/DHSI-CM/)
 
 **Our Journey:**
 1. Sketches
